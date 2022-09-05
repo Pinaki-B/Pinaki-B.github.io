@@ -165,3 +165,7 @@
     color: #4C2525;
     margin-left: 5%;
 }
+
+a, a:visited {
+    text-decoration: none;
+}
